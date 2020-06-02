@@ -81,3 +81,54 @@ h4
       background-image: linear-gradient(to right,blue 0%,red 100%);
       background-blend-mode:multiply;
 }
+.heading
+{
+	font-size: x-large;
+	text-align: center;
+	font-weight: bold;
+}
+  
+.skills 
+{
+	text-align: left;
+	color: white; 
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+  
+.html 
+{
+	text-align: right;
+	width: 80%; 
+	background-color: yellow;
+} 
+.c 
+{
+	text-align: right;
+	width: 70%; 
+	background-color: orange;
+}
+.mysql 
+{
+	text-align: right;
+	width: 60%; 
+	background-color: #f44336;
+}
+.css 
+{
+	text-align: right;
+	width: 50%; 
+	background-color:lightgreen;
+}
+.bootstrap 
+{
+	text-align: right;
+	width: 40%; 
+	background-color:green;
+} 
+.python 
+{
+	text-align: right;
+	width: 30%; 
+	background-color:navy;
+}
